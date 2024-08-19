@@ -1,6 +1,6 @@
 # Photo Query Assistant on Azure
 
-The notebook `photo_assistant.ipynb` describes solution to implement a sample solution to query photos stored on Azure.
+The notebook [photo_assistant.ipynb](https://github.com/lenaVisio/Photo-query-assistant-on-azure/blob/main/photo_assistant.ipynb) describes solution to implement a sample solution to query photos stored on Azure.
 
 You'll learn how to create and manage Azure resources such as Azure Storage and Cosmos DB, upload photos and metadata using Python scripts, retrieve photos based on text queries using embeddings, and deploy an Azure Function to query photos via HTTP requests.
 
